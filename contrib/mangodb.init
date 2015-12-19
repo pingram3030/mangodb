@@ -36,8 +36,8 @@ stop() {
 }
 
 restart() {
-    stop
-    start
+  stop
+  start
 }
 
 status() {
